@@ -94,13 +94,13 @@ WHERE Churn = 'Yes';
 
 ### Dashboard Preview
 
-![Power BI Dashboard](Dashboard/customer-churn-dashboard.png)
+![Power BI Dashboard](https://github.com/pravalikagunaganti/customer-churn-analysis-sql-powerbi/blob/main/customer-churn-dashboard.png?raw=true)
 
 *KPI dashboard showing churn rate by contract type, payment method, and tenure built using Power BI.*
 
 ### SQL Analysis Preview
 
-![SQL Query](Screenshots/sql-churn-analysis-query.png)
+![SQL Query](https://github.com/pravalikagunaganti/customer-churn-analysis-sql-powerbi/blob/main/sql-churn-analysis-query.png?raw=true)
 
 *MySQL Workbench showing churn analysis query output.*
 
