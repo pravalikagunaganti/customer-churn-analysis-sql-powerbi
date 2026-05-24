@@ -93,12 +93,16 @@ WHERE Churn = 'Yes';
 - **Interactive Slicers** — Filter entire dashboard by Contract Type, Internet Service, Senior Citizen status
 
 ### Dashboard Preview
+
 ![Power BI Dashboard](Dashboard/customer-churn-dashboard.png)
-*KPI dashboard showing churn rate by contract type, payment method, and tenure — built in Power BI with 6 interactive slicers and drill-through filters*
+
+*KPI dashboard showing churn rate by contract type, payment method, and tenure built using Power BI.*
 
 ### SQL Analysis Preview
+
 ![SQL Query](Screenshots/sql-churn-analysis-query.png)
-*MySQL Workbench showing churn rate query output segmented by contract type*
+
+*MySQL Workbench showing churn analysis query output.*
 
 ---
 
@@ -159,8 +163,10 @@ This analysis gives a telecom business clear, actionable direction:
 ## Connect With Me
 
 📧 Email: [pravalikagunaganti16@gmail.com](mailto:pravalikagunaganti16@gmail.com)
-💼 LinkedIn: [linkedin.com/in/pravalika-gunagantiti-5a333a304](https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304)
-💻 GitHub: [github.com/pravalikagunaganti](https://github.com/pravalikagunaganti)
+
+💼 LinkedIn: [https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304](https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304)
+
+💻 GitHub: [https://github.com/pravalikagunaganti](https://github.com/pravalikagunaganti)
 
 ---
 
